@@ -27,6 +27,14 @@ Baixe o arquivo coco.names e coloque-o também no diretório yolo_cfg.
 Instale as dependências necessárias usando o arquivo requirements.txt:
 Copy code
 pip install -r requirements.txt
+
+Vá para a página inicial do YOLO: YOLO website
+Role para baixo até encontrar a seção para YOLOv3.
+Lá, você encontrará um link para baixar os pesos do YOLOv3, geralmente com uma descrição como "YOLOv3-416" ou similar.
+Clique no link para baixar o arquivo .weights.
+Salve o arquivo na pasta yolo_cfg.
+
+
 Como Usar
 
 Execute o script main.py para iniciar a detecção de objetos em tempo real:
